@@ -54,10 +54,6 @@ def handler(arr):
     
       value = 0
 
-  for i in arr:
-    print(*i)
-  print()
-
   return arr
 
 
